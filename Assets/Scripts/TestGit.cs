@@ -15,4 +15,11 @@ public class TestGit : MonoBehaviour
     {
 
     }
+
+    void YourFace()
+    {
+        int a = 1;
+        int b = 34;
+        int c = a + b;
+    }
 }
