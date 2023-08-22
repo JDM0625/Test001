@@ -10,4 +10,9 @@ public class TestGit : MonoBehaviour
     {
         
     }
+
+    void TestMain()
+    {
+
+    }
 }
